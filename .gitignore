@@ -1,3 +1,8 @@
-.idea
+.idea/
 .venv
 fastapienv
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
